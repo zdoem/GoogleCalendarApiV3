@@ -5,7 +5,7 @@
 //
 
 //Clendar Admin :LH075-ตารางนัดหมายงาน
-$calendarIdOwner = "r73n817q7lg2sj2vh4t3gbn174@group.calendar.google.com";
+$calendarIdOwner = "r73n817q7lg2sj2vh4t3gbnxxx@group.calendar.google.com";
 $title = "ทดสอบ Test Add Event#1";
 $desc = "Ladbrokes ร้านรับพนันชื่อดังของเกาะอังกฤษ หั่นราคาให้ “หงส์แดง” ลิเวอร์พูล เป็นเต็ง1 ที่มีโอกาสคว้า ซลาตัน อิบราฮิโมวิช ดาวยิงจอมเก๋า";
 
@@ -27,9 +27,9 @@ session_start();
 	require_once '/src/Google/autoload.php';
 	
 	//Google credentials Authication :Admin@gmail.com
-	$client_id = '937566136451-p825gi4ad984tgg6b17rfmt248hqmlhl.apps.googleusercontent.com';
-	$service_account_name = '937566136451-p825gi4ad984tgg6b17rfmt248hqmlhl@developer.gserviceaccount.com';
-	$key_file_location = 'dev1-a20e4344ea69.p12';
+	$client_id = 'xxx566136451-p825gi4ad984tgg6b17rfmt248hqmlhl.apps.googleusercontent.com';
+	$service_account_name = 'xxx566136451-p825gi4ad984tgg6b17rfmt248hqmlhl@developer.gserviceaccount.com';
+	$key_file_location = 'xxxx-a20e4344ea69.p12';
 	
 	//Case: for Config user1@gamil.com
 	//$client_id = 'xxxxxxxxxx-ls9hobkt5iktovm4hjvtjee6220690fk.apps.googleusercontent.com';
